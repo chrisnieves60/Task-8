@@ -1,0 +1,10 @@
+self.__NEXT_FONT_MANIFEST={
+  "pages": {},
+  "app": {
+    "/Users/Christopher/Desktop/VSCODE/436TP/Task-8/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Darker_Grotesque\",\"arguments\":[{\"weight\":[\"800\"],\"subsets\":[\"latin\"]}],\"variableName\":\"dG\"}": [
+      "static/media/6ac7e935e56f17d9-s.p.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

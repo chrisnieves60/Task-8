@@ -1,0 +1,14 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/Christopher/Desktop/VSCODE/436TP/Task-8/app/layout.js": [
+      "/Users/Christopher/Desktop/VSCODE/436TP/Task-8/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Darker_Grotesque\",\"arguments\":[{\"weight\":[\"800\"],\"subsets\":[\"latin\"]}],\"variableName\":\"dG\"}",
+      "/Users/Christopher/Desktop/VSCODE/436TP/Task-8/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/Christopher/Desktop/VSCODE/436TP/Task-8/app/page": [
+      "/Users/Christopher/Desktop/VSCODE/436TP/Task-8/app/globals.css",
+      "/Users/Christopher/Desktop/VSCODE/436TP/Task-8/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Darker_Grotesque\",\"arguments\":[{\"weight\":[\"800\"],\"subsets\":[\"latin\"]}],\"variableName\":\"dG\"}"
+    ]
+  }
+}
